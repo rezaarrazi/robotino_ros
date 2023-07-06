@@ -1,0 +1,8 @@
+prefix=/home/hilman/robotino_ros_ws/install
+
+Name: robotino_pakages
+Description: Description of robotino_pakages
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

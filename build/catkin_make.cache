@@ -1,0 +1,2 @@
+robotino_pakages
+-DCATKIN_DEVEL_PREFIX=/home/hilman/robotino_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hilman/robotino_ros_ws/install -G Unix Makefiles
